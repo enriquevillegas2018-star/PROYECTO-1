@@ -1,0 +1,6 @@
+{
+  "name": "Paraíso Bajo 0",
+  "description": "Granizados artesanales de Lenni Tacuri. Disfruta de la frescura perfecta hecha al instante.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
